@@ -1,0 +1,16 @@
+{
+    "name": "garbim/app-php-catalogo",
+    "description": "APP With PHP - Catalogo - Estudos",
+    "authors": [
+        {
+            "name": "Bruno Garbim",
+            "email": "garbim7@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
